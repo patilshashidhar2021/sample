@@ -1,0 +1,16 @@
+div {
+  display: inline-block;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+div label {
+  display: block;
+}
+
+.company-select,
+.type-select,
+.frequency-select {
+  width: 150px;
+  height: 23px;
+}

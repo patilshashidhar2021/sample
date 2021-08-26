@@ -1,0 +1,30 @@
+div {
+    display: inline-block;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    
+  }
+  
+  div label {
+    display: block;
+    
+  }
+  
+  .select-company,
+  .select-type,
+  .select-frequency,
+  .select-date,
+  .select-starttime,
+  .select-endtime
+  {
+      width: 150px;
+      height:flex;
+  }
+  .select-company,
+  .select-type,
+  .select-frequency{
+      height: 25px;
+  }
+  
+  
